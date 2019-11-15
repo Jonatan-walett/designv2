@@ -1,25 +1,27 @@
 ---
-title: "Min fina titel"
+title: "Me-sida design"
+
+views:
+    byline:
+        region: main
+        template: anax/v2/block/default
+        sort: 2
+        data:
+            meta:
+                type: single
+                route: block/byline
 ---
 Min me-sida i kursen design
 =========================
 
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/index.md`.
 
-[FIGURE src="image/me.jpg?w=500" class="right" caption="Bild på mig"]
+[FIGURE src="image/jag.jpg?w=500" class="right" caption="Bild på mig"]
 
-Detta är min me-sida i kursen. Denna sidan innehåller en presentation av mig själv. Underhåll denna sidan under hela kursen och uppdatera den efter hand och behov.
+Jag heter Jonatan Walett och är 20 år och kommer ifrån Lund. Jag har två systrar varav en pluggar sista året på gymnasiet och den andra går i 6:an på högstadiet. Jag har nu flyttat till karlskrona för att börja plugga webbprogramering på Blekinge Tekniska Högskola (BTH).
 
-Så, en presentation en bra början. Skriv några ord om dig själv. Jag börjar.
+I Lund så läste jag teknik på gymmnasiet med inriktning programmering. Jag valde också att läsa ett fjärde tekniskt år på min skola (NTI) där jag läste yttligare 8 kurser inom programmering. Samt hade man under det fjärde året 3 månader praktik. Jag drogs till Blekinge Tekniska Högskola pågrund av att dem hade väldigt stort utbud utav programmerings program, jag valde att söka till webbprogrammering för att det är något jag jobbat en del med under gymnasiet och är väldigt intresserad av att skapa hemsidor.
 
-Mitt namn är Mikael Roos. Född och uppvuxen i Bankeryd, Småland, strax utanför Jönköping, i ett villaområde som byggdes upp samtidigt som vi flyttade in där. Jag gillade landhockey och har spelat bandy och hockey samt gått bowlinggymnasiet i Nässjö. Jag har varit städare, diskare, kallskänka, servitör och kock. På ett bananskal landade jag i Ronneby när jag började högskolan 1990 där och nu är jag kvar med fru, barn och så vidare.
+Jag är väldigt intresserad av Formel 1 och det mesta inom datorer. När jag bodde hemma i Lund brukade jag spendera min fritid med att vara ute och hänga med polare, jag brukade också försöka få in någon timme då och då på gokart banorna i malmö. När jag var yngre så brukade jag också spela en del vilket ledde till att jag byggde min första dator för 8 år sen. Nu har mitt spel intresse försvunnit lite, men jag spelar fortfarande en del med kompisar för att hålla kontakten.
 
-Programmering har alltid intresserat mig sedan 13-årsåldern och min första dator var en Spectravideo 328 med bandspelare.
-
-Om jag skall nämna någon hobby, förutom webbprogrammering, så får det bli att bära sten på sommarstugetomten, och det finns sten så det räcker och blir över.
-
-Till och från får jag för mig att börja på lite hobbies, ett år satsade jag på pokerspel, ett annat år var det geocaching och sedan turfing. Nu ligger jag lågt med hobbies, men något kanske dyker upp...?
-
-Vi syns och hörs i forum och chatt!
-
-/Mikael
+/Jonatan
