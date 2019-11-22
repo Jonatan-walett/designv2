@@ -19,7 +19,6 @@ views:
 Om
 =========================
 
-Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
 
 Detta är kursen design där vi får testa att ge en hemsida olika design med mycket css.
 
