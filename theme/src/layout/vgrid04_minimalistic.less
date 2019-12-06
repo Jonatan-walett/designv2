@@ -1,0 +1,111 @@
+/**
+ * Layout using vgrid and style for minimalistic theme.
+ */
+
+/**
+ * Variables
+ */
+
+
+/**
+ * General layout
+ */
+ .row {
+     #desinax-vgrid.row();
+     margin-bottom: 12px;
+ }
+
+ .inner-wrap {
+      #desinax-vgrid.grid(1100px);
+ }
+
+ /* header */
+ .inner-wrap-header {
+      #desinax-vgrid.grid(100%);
+ }
+
+ .vgrid .inner-wrap {
+    @gridImage: "../img/grid_24x30x10-nomargin.png";
+    #desinax-vgrid.showGrid(@gridImage, 1100px);
+
+    &.inner-wrap-header {
+        #desinax-vgrid.showGrid(@gridImage);
+    }
+}
+
+ .row {
+     display: block;
+ }
+
+ .site-logo-text {
+     font-family: "Times New Roman",Times,serif;
+ }
+ .site-logo-text {
+     font-size: 42px;
+ }
+
+ .site-logo-text a {
+     text-decoration: none;
+ }
+
+ .region-header-col-1,
+ .region-header-col-3 {
+     #desinax-vgrid.column(5);
+ }
+
+ .region-header-col-2 {
+     #desinax-vgrid.column(14);
+ }
+
+ .region-flash {
+     #desinax-vgrid.column(@columns);
+ }
+
+ /* navbar */
+ .rm-navbar {
+     text-align: center;
+     font-family: Cambria,Georgia,Times,'Times New Roman',serif;
+     font-size: 1.5em;
+     line-height: 0;
+ }
+
+ .rm-navbar ul {
+     list-style: none;
+ }
+
+ /* main */
+ .region-main {
+     #desinax-vgrid.column(18);
+ }
+
+ figure.figure.right {
+     text-align: center;
+ }
+
+ h1 {
+     font-size: 2.375em;
+     line-height: 1.26315789;
+     font-weight: 400;
+     border-bottom: 1px solid #666;
+ }
+
+ /* footer */
+ .outer-wrap-footer {
+     background-color: #424242;
+ }
+
+ .footer-column-wrapper {
+     color: #ddd;
+ }
+
+ .footer-column {
+     #desinax-vgrid.column(@columns / 3);
+     box-sizing: border-box;
+     border: 1px solid white;
+ }
+
+ .site-footer {
+     #desinax-vgrid.column(@columns);
+     color: #aaa;
+     text-align: center;
+ }

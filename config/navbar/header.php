@@ -39,5 +39,10 @@ return [
             "url" => "test",
             "title" => "Test markdown.",
         ],
+        [
+            "text" => "Rapport",
+            "url" => "rapport",
+            "title" => "Rapporter.",
+        ],
     ],
 ];
