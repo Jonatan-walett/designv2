@@ -16,21 +16,21 @@ Rapport kmom09
 
 <p>En trend som man kan se på deras hemsida är att dem följer nästan samma design och layout som många andra hemsidor för kommuner. Dem jobbar också med att ha mycket information på startsidan som man kan klicka på för att ta sig vidare.</p>
 
-<img src="../htdocs/img/lund.png" alt="lund" >
+<img src="../htdocs/img/lund.PNG" alt="lund" >
 
 <p><b>Höörs kommun</b></p>
 <p>När man besöker Höörs kommuns webbplats märker man direkt att den är väldigt lik Lunds kommuns. Headern är nästan identisk, med en logga till vänster och en meny med ett flertal praktiska länkar, bland annat översättning, kartor och felanmälan. Under den menyn sitter också en sökfunktion. Under dessa elementen sitter en större nav-bar med en blå bakgrundsfärg som innehåller länkar till webbplatsens olika kategorier som: “omsorg och stöd”, “bygga, bo och miljö”, “kommun och politik” med mera. Under headern så finns alla aktuella artiklar, nyheter och evenemang. De har valt att dela upp sidan i tre kolumner, detta är ett tema som finns genom hela webbplatsen. Footern är ganska stor med en blå bakgrundsfärg. Även denna är indelad i tre kolumner, en för kontaktinformation, en för sociala medier och en för information om webbplatsen. Webbplatsens färgtema består av vitt och grått med ganska ljus blå färg som används som bakgrundsfärg på vissa element som tex nav-baren och footern.</p>
 
 <p>Webbplatsen är som sagt väldigt lik de andra kommunernas. Informationen är i centrum, de har lagt mycket fokus på att göra det lätt att hitta det man söker efter.</p>
 
-<img src="../htdocs/img/höör.png" alt="höör" >
+<img src="../htdocs/img/höör.PNG" alt="höör" >
 
 <p><b>Karlskrona kommun</b></p>
 <p>Hemsidan för Karlskronas kommun skiljer sig lite från Lunds och Höörs sidor. Dem har fortfarande samma tanke att ha mycket nyheter som fångar läsare och får dem att klicka vidare på deras startsida. Det som skiljer sig är att Karlskrona kommun har en stor header med en bild som representerar miljön tillsammans med en sökfunktion som blir väldigt tydlig. Dem jobbar med en mix av olika färger för att göra sidan mer levande. Deras footer precis som dem andra två sidorna innehåller länkar fr kontakt och till deras sociala medier.</p>
 
 <p>Hemsidan följer trenden att ha mycket nyheter på startsidan för att fånga användarens intresse.</p>
 
-<img src="../htdocs/img/karlskrona.png" alt="karlskrona" >
+<img src="../htdocs/img/karlskrona.PNG" alt="karlskrona" >
 
 <p><b>Resultat</b></p>
 <p>Alla tre webbplatserna är väldigt lika varandra. De har alla en stor header med mycket länkar som dessutom är väldigt beskrivande, samt en sökfunktion. Under headern så visar de upp sina aktuella artiklar. Artiklarna är uppdelade i kolumner, alla tre sidorna har olika antal kolumner på olika ställen. Men ett vanligt format som hittas på alla webbplatserna är att ha tre kolumner med artiklar. De tre hemsidorna har alla en ganska stor och hög footer med mycket länkar till eventuella andra webbplatser, deras sociala medier och kontaktinformation samt adresser. Footern har också en bakgrundsfärg, samma accentfärg som sidorna primärt använder sig av.</p>
